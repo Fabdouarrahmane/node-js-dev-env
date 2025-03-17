@@ -11,14 +11,14 @@ js-dev-env est un environnement de développement Node.js préconfiguré pour cr
 - Analyse de code avec ESLint (style Airbnb)
 - Tests unitaires avec Jest (avec rapports de couverture)
 - Génération de documentation avec JSDoc
-- Formatage des commits avec Commitizen et commitlint
+- Formatage des commits avec Commitizen
 
 ## Démarrage
 
 ### Prérequis
 
-- Node.js (v12 ou plus récent)
-- npm (v6 ou plus récent)
+- Node.js (v23.10.0)
+- npm (v10.9.2)
 
 ### Installation
 
