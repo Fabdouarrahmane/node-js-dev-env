@@ -47,10 +47,8 @@
   },
   "jest": {
     "collectCoverage": true,
-    "coverageDirectory": "test/coverage",
     "coverageReporters": [
-      "text",
-      "html"
+      "text"
     ],
     "collectCoverageFrom": [
       "src/**/*.js"
